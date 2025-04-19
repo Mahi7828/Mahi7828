@@ -1,7 +1,9 @@
 <h1 align="center">Hi ! I'm Mahima Sahu</h1>
 <h3 align="center">A passionate ML & Data Science Enthusiast </h3>
 
-- 🔭 I’m currently working on [RL_Quant](https://github.com/Mahi7828/RL_Agent_Quant)
+- :school: I'm currently doing undergrad at IIT Bombay, India 
+
+- 🔭 These days building on [RL_Quant](https://github.com/Mahi7828/RL_Agent_Quant)
 
 - 🌱 I’m currently learning **Reinforcement Learning and Napari**
 
