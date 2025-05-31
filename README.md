@@ -42,11 +42,6 @@ I'm a Data Science and ML enthusiast currently pursuing my undergrad in Mechanic
 
 ---
 
-### 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/Mahi7828/Mahi7828/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ### 🚀 Top Repositories
 
