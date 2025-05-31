@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science and Machine Learning Engineer
 ------------------------------------------
 
-I'm a Data Science and ML enthusiast currently pursuing my undergrad in Mechanical Engineering at IIT Bombay. My work spans data analytics, reinforcement learning, Building AI agents, machine learning—with a growing interest in quantitative finance and applying AI/ML to real-world problems and business projects. I've contributed to open-source in neuroinformatics organisation, applying data science to neuroscience research. I'm always eager to collaborate on innovative Data Science and Computer Vision projects—feel free to reach out if you share similar interests or have something exciting in mind!
+I'm a Data Science and ML enthusiast currently pursuing my undergrad in Mechanical Engineering at IIT Bombay. My work spans data analytics, reinforcement learning, Building AI agents, machine learning—with a growing interest in applying AI/ML to real-world problems and finance projects. I've contributed to open-source in neuroinformatics organisation, I'm always eager to collaborate on innovative Data Science and Computer Vision projects—feel free to reach out if you share similar interests or have something exciting in mind!
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [mahimasahu7828@gmail.com](mailto:mahimasahu7828@gmail.com)
