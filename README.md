@@ -9,7 +9,6 @@ I'm a Data Science and ML enthusiast currently pursuing my undergrad in Mechanic
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [mahimasahu7828@gmail.com](mailto:mahimasahu7828@gmail.com)
 * 🚀  I'm currently working on [Project on CKD Prediction and Alethia package](http://github.com/Mahi7828)
-* 🧠  I'm learning a course by GTx: Data Analytics for Business
 * 🤝  I'm open to collaborating on Data Science and ML projects
 * ⚡  Pushing limits and bending data into a playground of endless innovation!
 
