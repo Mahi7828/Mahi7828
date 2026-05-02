@@ -37,8 +37,6 @@ I'm a Data Science and ML enthusiast currently pursuing my undergrad in Mechanic
 </a>
 
 </div>
-
-
 ---
 
 
